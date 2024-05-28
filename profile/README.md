@@ -1,4 +1,4 @@
-![readme-banner](../banner.png)
+![readme-banner](banner.png)
 ## **💰Cost-effective - ⭐️High-quality - 🚀Growth-oriented - 🤝Collaborative**
 
 # Unlock your business potential with `cost-effective` software solutions
