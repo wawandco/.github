@@ -1,5 +1,5 @@
-![site-og](https://github.com/wawandco/.github/assets/22061763/ad6dcd9e-df40-4aa5-8898-34aeb190ff43)
-**💰Cost-effective - ⭐️High-quality - 🚀Growth-oriented - 🤝Collaborative**
+![readme-banner](banner.png)
+## **💰Cost-effective - ⭐️High-quality - 🚀Growth-oriented - 🤝Collaborative**
 
 # Unlock your business potential with `cost-effective` software solutions
 At [Wawandco](https://wawand.co), we help companies achieve goals through technology solutions. Whether it implies exploring a new market opportunity or a rescue mission we're here to help.
