@@ -5,10 +5,13 @@
 **A reliable source of talent that scales with your business through cost-effective solutions.**
 
 #### Contact Us ℹ️
-We integrate seamlessly with your teams, leveraging deep technical expertise to drive your business goals forward 😎 [Get in touch now!](https://wawand.co/contact/)
+We integrate seamlessly with your teams, leveraging deep technical expertise to drive your business goals forward 😎
+[Get in touch now!](https://wawand.co/contact/)
 
 ## Open Source Tools & Resources 🧰
 A list of tools we have created to help you thrive in your professional initiatives
+
+[📋 Eboardo: Lightweight project boards for fast-moving teams](https://eboardo.com/)
 
 [🧍 Personas: Unmask your ideal customers](https://personas.wawand.co/)
 
